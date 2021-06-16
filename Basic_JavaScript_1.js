@@ -1,6 +1,1 @@
-<!DOCTYPE HTML>
-	<html>
-		<script>
-		alert("Hello, World!");
-		</script>
-	</html>
+alert("hello, World! This is an alert box!");
