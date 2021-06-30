@@ -4,8 +4,11 @@ body {
 }
 
 input[type=text] {
-    width: 100%;
+    width: 10%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
+    background-color: #3CBC8D;
+    color: white;
+    border-radius: 4px;
   }
