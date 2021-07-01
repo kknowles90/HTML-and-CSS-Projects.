@@ -29,20 +29,20 @@
   </ol>
 </details>
   
- ##intro 
+ ## intro 
   
   My name is Kyle Knowles. I have been practicing coding since 2019. I am just getting into the more advanced stages of coding.
   I am attempting to start my own career within software development soon, in which I hope to expand my collection of github projects. In the meantime, please enjoy the few projects I have. Please feel free to contact me if you have any questions, comments, or concerns.
   
-  ##TheSpaceResort
+  ## TheSpaceResort
   (https://github.com/kknowles90/HTML-and-CSS-Projects./tree/main/project)
   The Space Resort was my first HTML/CSS project attempt. I had some minor issues but overall it turned out great. 
   
-  ##Academy
+  ## Academy
   (https://github.com/kknowles90/HTML-and-CSS-Projects./tree/main/bootstrap4_project)
   Academy Cinemas was my first attempt to start inplimenting bootsrap which enabled me to focus more on styling and adding design, rather than the code itself.
   
- ##contact
+ ## contact
   
   Email:usafknowles@gmail.com
   github:https://github.com/kknowles90
